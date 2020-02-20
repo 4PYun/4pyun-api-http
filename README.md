@@ -10,3 +10,8 @@ https://github.com/4PYun/4pyun-doc/blob/master/P%E4%BA%91%E5%81%9C%E8%BD%A6%E5%9
 - `com.pyun.http.security.SecurityProvider` 需要在这里实现车场的密钥配置，从而实现不同车场不同密钥。
 
 关于返回状态码`result_code`具体返回值参考文档中的定义, 不必一定在`com.pyun.http.api.consts.ResultCode`中定义。
+
+## 接口地址:
+```bash
+http://127.0.0.1:8080/gateway/1.0/dispatch
+```
