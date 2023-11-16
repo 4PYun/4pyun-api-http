@@ -2,7 +2,7 @@
 
 合作方可参考该项目开发自己的HTTP网关完成P云的对接, 对接协议文档
 
-https://github.com/4PYun/4pyun-doc/blob/master/P%E4%BA%91%E5%81%9C%E8%BD%A6%E5%9C%BA%E6%8E%A5%E5%85%A5.md
+https://doc.4pyun.com
 
 ## 说明
 
