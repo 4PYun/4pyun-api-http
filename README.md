@@ -2,7 +2,7 @@
 
 合作方可参考该项目开发自己的HTTP网关完成P云的对接, 对接协议文档
 
-https://doc.4pyun.com
+https://doc.4pyun.com/parking/guideline/http.html
 
 ## 说明
 
